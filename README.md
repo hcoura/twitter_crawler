@@ -2,10 +2,13 @@ Simple crawler that uses selenium for extracting tweets
 
 ## Dependencies
 
+I recommend you use pipenv
+
 ```
-conda env create -f environment.yml
-source activate selenium_env
+pipenv install
+pipenv shell
 ```
+
 
 ```
 python twitter_crawler.py

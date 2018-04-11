@@ -1,4 +1,0 @@
-jupyter
-notebook
-selenium
-lxml
